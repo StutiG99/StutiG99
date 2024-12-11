@@ -1,4 +1,10 @@
-## Hi there 👋
+Bio: xyz
+
+These are some projects that I have worked on:
+- [AEA RCT Registry Blog Post](https://www.povertyactionlab.org/blog/1-26-24/celebrating-decade-aea-rct-registry)
+- [COVID-19 News Sentiment Analysis](https://github.com/StutiG99/Sentiment_analysis)
+- [Automated Program Rreview through Web Scraping and Prompt Engineering](https://colab.research.google.com/drive/1JFMrHW6u-2pDTEWvlyRh-U0GwfED_08n#scrollTo=of9t4iIaJWio)
+- [My Personal Website](https://stutii-goyal.netlify.app/) built using [Blogdown in R](https://github.com/StutiG99/website)
 
 <!--
 **StutiG99/StutiG99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
